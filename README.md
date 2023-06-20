@@ -1,5 +1,5 @@
 # flappy_bird
-The game is written by [Tetra] Game Engine .
+The game is written by using 2d FrameWork [Tetra]  .
 
 [Tetra]: https://tetra.seventeencups.net/
 
